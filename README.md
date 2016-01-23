@@ -1,1 +1,0 @@
-# Freebase112TypesSemanticTagger
